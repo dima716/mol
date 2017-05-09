@@ -1,0 +1,5 @@
+{
+	"$mol_app_inventory_position_status_label_pending": "Pending",
+	"$mol_app_inventory_position_status_label_approved": "Approved",
+	"$mol_app_inventory_position_status_label_rejected": "Rejected"
+}

@@ -1,0 +1,21 @@
+$mol_number $mol_bar
+	precision_view <= precision 1
+	precision_change <= precision 1
+	value?val null
+	event_async *
+		^
+		wheel?val <=> event_wheel?val null
+	sub /
+		<= Dec $mol_button
+			event_click?val <=> event_dec?val null
+			enabled <= dec_enabled <= enabled true
+			sub / <= dec_icon $mol_icon_minus
+		<= String $mol_string
+			type \number
+			value?val <=> value_string?val \
+			hint <= hint \
+			enabled <= string_enabled <= enabled true
+		<= Inc $mol_button
+			event_click?val <=> event_inc?val null
+			enabled <= inc_enabled <= enabled true
+			sub / <= inc_icon $mol_icon_plus

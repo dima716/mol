@@ -1,0 +1,8 @@
+[mol_demo_large] {
+	flex: 1 1 100%;
+	align-self: stretch;
+}
+
+[mol_demo_large_screen] {
+	margin: 1rem;
+}

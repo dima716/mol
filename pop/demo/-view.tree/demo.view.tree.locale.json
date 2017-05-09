@@ -1,0 +1,20 @@
+{
+	"$mol_pop_demo_title": "Pop up block with various alignment",
+	"$mol_pop_demo_show_text": "Show Bubble",
+	"$mol_pop_demo_bubble_hint": " I'm bubble, i showed when you want ",
+	"$mol_pop_demo_hide_hint": "Hide Bubble",
+	"$mol_pop_demo_Align_title": "Align",
+	"$mol_pop_demo_align_left_top": "left_top",
+	"$mol_pop_demo_align_left_center": "left_center",
+	"$mol_pop_demo_align_left_bottom": "left_bottom",
+	"$mol_pop_demo_align_right_top": "right_top",
+	"$mol_pop_demo_align_right_center": "right_center",
+	"$mol_pop_demo_align_right_bottom": "right_bottom",
+	"$mol_pop_demo_align_center": "center",
+	"$mol_pop_demo_align_top_left": "top_left",
+	"$mol_pop_demo_align_top_center": "top_center",
+	"$mol_pop_demo_align_top_right": "top_right",
+	"$mol_pop_demo_align_bottom_left": "bottom_left",
+	"$mol_pop_demo_align_bottom_center": "bottom_center",
+	"$mol_pop_demo_align_bottom_right": "bottom_right"
+}
